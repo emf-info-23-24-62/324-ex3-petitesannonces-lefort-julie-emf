@@ -17,5 +17,3 @@ INSERT INTO t_annonce (titre, description) VALUES
 ('Vélo d''occasion', 'Vélo de montagne en bon état.'),
 ('Ordinateur portable', 'Ordinateur portable 15 pouces, 8GB RAM.'),
 ('Canapé 3 places', 'Canapé confortable en tissu gris.');
-
-GRANT ALL PRIVILEGES ON db_annonces.* TO 'appuser';
